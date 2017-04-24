@@ -1,9 +1,4 @@
-<style>
-    center{
-        color:red;
-    }
-</style>
-# <center>模块</center>
+# <center>模块</center>#
 
 - 里面存放的东西希望大家不要修改
 ```java
